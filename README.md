@@ -26,9 +26,9 @@
   - **Commit often (with good meaningful commit messages), and Push to Github regularly.**
   - Use the sketch below to guide you towards the layout and content you are trying to achieve. *Please note that this is just a sketch - you can choose the colours, fonts and images that you want to use in the page.*
 
-><a href="https://github.com/rajgthub/html-css-project" target="_blank">Answer in website</a>
+><a href="https://rajgthub.github.io/html-css-project/" target="_blank">Answer in website</a>
 
->><a href="https://rajgthub.github.io/html-css-project/" target="_blank">Source code</a>
+>><a href="https://github.com/rajgthub/html-css-project" target="_blank">Source code</a>
 
  3. ### Git conflict:
 Get together in pairs and select a "leader". The leader should fork this repository to their GitHub account. The other person should then fork the leader's repository. Both students should then clone their own personal forks locally.
