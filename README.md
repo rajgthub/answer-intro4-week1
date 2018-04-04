@@ -10,9 +10,9 @@
       * Make at least 2 branches other than master and push them to github, and 
       * Make at least 2 pull requests, and merge them on github.
 
-   >[Answer in website](https://rajgthub.github.io/intro-4-homework-answer/)
+   ><a href="https://rajgthub.github.io/intro-4-homework-answer/" target="_blank">Answer in website</a>
 
-   >>[Source code](https://github.com/rajgthub/intro-4-homework-answer)
+   >><a href="https://github.com/rajgthub/intro-4-homework-answer" target="_blank">Source code</a>
 
  2. ### HTML/CSS Project
 
@@ -27,27 +27,27 @@
   - **Commit often (with good meaningful commit messages), and Push to Github regularly.**
   - Use the sketch below to guide you towards the layout and content you are trying to achieve. *Please note that this is just a sketch - you can choose the colours, fonts and images that you want to use in the page.*
 
->[Answer in website](https://github.com/rajgthub/html-css-project)
+><a href="https://github.com/rajgthub/html-css-project" target="_blank">Answer in website</a>
 
->>[Source code](https://rajgthub.github.io/html-css-project/)
+>><a href="https://rajgthub.github.io/html-css-project/" target="_blank">Source code</a>
 
  3. ### Git conflict:
 Get together in pairs and select a "leader". The leader should fork this repository to their GitHub account. The other person should then fork the leader's repository. Both students should then clone their own personal forks locally.
 
->[Source code](https://github.com/rajmathtech/first-git-conflict)
+><a href="https://github.com/rajmathtech/first-git-conflict" target="_blank">Source code</a>
 
 
  4. ### Improve the site bikes-for-refugees:
 
->[Answer in website](https://rajgthub.github.io/bikes-for-refugees/)
+><a href="https://rajgthub.github.io/bikes-for-refugees/" target="_blank">Answer in website</a>
  
->>[Source code](https://github.com/rajgthub/bikes-for-refugees)
+>><a href="https://github.com/rajgthub/bikes-for-refugees" target="_blank">Source code</a>
 
 ## Card two: Week 1 css
 - Using Flexbox, create a webpage that looks like this: http://thinkful-ed.github.io/karma-clone/. 
 - You will need to clone this Github repository https://github.com/CodeYourFuture/karma-clone which contains all the images  you need.  
 - Follow the instructions in the ReadMe - Use Flexbox for the layout, and if you have the time, make it look good on mobile.
 
->[Answer in website](https://rajgthub.github.io/karma-clone-1/)
+><a href="https://rajgthub.github.io/karma-clone-1/" target="_blank">Answer in website</a>
 
->>[Source code](https://github.com/rajgthub/karma-clone-1)
+>><a href="https://github.com/rajgthub/karma-clone-1" target="_blank">Source code</a>
