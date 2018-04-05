@@ -43,10 +43,18 @@ Get together in pairs and select a "leader". The leader should fork this reposit
 >><a href="https://github.com/rajgthub/bikes-for-refugees" target="_blank">Source code</a>
 
 ## Card two: Week 1 css
-- Using Flexbox, create a webpage that looks like this: http://thinkful-ed.github.io/karma-clone/. 
+1. ### Using Flexbox
+
+- Create a webpage that looks like this: http://thinkful-ed.github.io/karma-clone/. 
 - You will need to clone this Github repository https://github.com/CodeYourFuture/karma-clone which contains all the images  you need.  
 - Follow the instructions in the ReadMe - Use Flexbox for the layout, and if you have the time, make it look good on mobile.
 
 ><a href="https://rajgthub.github.io/karma-clone-1/" target="_blank">Answer in website</a>
 
 >><a href="https://github.com/rajgthub/karma-clone-1" target="_blank">Source code</a>
+2. Group project (Messaging App)
+
+><a href="https://rajgthub.github.io/group-project-revisions-messaging/" target="_blank">Answer in website</a>
+
+>><a href="https://github.com/rajgthub/group-project-revisions-messaging" target="_blank">Source code</a>
+
